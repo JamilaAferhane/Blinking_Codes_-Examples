@@ -1,6 +1,6 @@
 
-//This code uses the values of the potentiometer to vary the frequence of blinking of two LEDs
-//and activates the buzzer when the potentiometer value reaches 1 which correspond to the highest frequence
+//This code uses the values of the potentiometer to vary the frequency of blinking of two LEDs
+//and activates the buzzer when the potentiometer value reaches 1 which correspond to the highest frequency
 
 const int redLed = 7;//connect red LED to digital pin 7
 const int greenLed = 6;//connect green LED to digital pin 6

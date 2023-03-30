@@ -1,5 +1,5 @@
-//In this code the red LED(0) is blinking for a frequence of 10HZ
-//and the green LED(1) is blinking for a frequence of 5HZ
+//In this code the red LED(0) is blinking for a frequency of 10HZ
+//and the green LED(1) is blinking for a frequency of 5HZ
 void setup(){
 pinMode(0,OUTPUT); //set digital pin number 0 on the Arduino board to output mode for the red LED
 pinMode(1,OUTPUT); //set digital pin number 0 on the Arduino board to output mode for the green LED

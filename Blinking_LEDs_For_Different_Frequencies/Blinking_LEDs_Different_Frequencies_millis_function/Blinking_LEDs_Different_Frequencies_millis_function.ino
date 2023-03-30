@@ -1,4 +1,4 @@
-// In this code, the red LED (on 0) is blinking for a frequence of 2HZ and the green LED (on 1) is blinking for a frequence of 5HZ
+// In this code, the red LED (on 0) is blinking for a frequency of 2HZ and the green LED (on 1) is blinking for a frequency of 5HZ
 //To this, we used the millis()function that returns the number of milliseconds that have passed since the Arduino board started running its current program
 
 const long interval_1 = 250;  // interval at which to blink (milliseconds) for the red LED

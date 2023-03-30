@@ -1,4 +1,4 @@
-//In this code, the first LED (red on 0) is blinking at the frequence of 2HZ and the second LED (green on 1) is blinking at the frequence of 5HZ
+//In this code, the first LED (red on 0) is blinking at the frequency of 2HZ and the second LED (green on 1) is blinking at the frequency of 5HZ
 // We set up a timer2 to measure time and to generate interrupts at specific time intervals
 
 const byte Led = 0; // Red LED

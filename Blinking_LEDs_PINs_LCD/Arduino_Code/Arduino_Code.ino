@@ -1,5 +1,5 @@
 // This program reads the state of two switches and increments a counter based on the state of the first switch.
-// It also controls an LED that turns on when the counter reaches 10 
+// It also controls a LED that turns on when the counter reaches 10 
 
 #include <LiquidCrystal.h>
 
